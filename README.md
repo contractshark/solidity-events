@@ -1,7 +1,11 @@
 # event emission logging 4 solidity (event4sol)
 
+> for usage in tracing contract events and emissions (filters)
+
+
 ## Overview
 
+```
 .
 ├── LICENSE
 ├── event4solidity.d.ts
@@ -19,6 +23,7 @@
 │   ├── index.ts
 │   └── tsconfig.json
 └── tsGenerate.sh\*
+```
 
 ## Usage
 
