@@ -2,7 +2,6 @@
 
 > for usage in tracing contract events and emissions (filters)
 
-
 ## Overview
 
 ```

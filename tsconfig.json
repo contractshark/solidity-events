@@ -5,12 +5,6 @@
     "sourceMap": true,
     "allowJs": true
   },
-  "exclude": [
-    "../node_modules"
-  ],
-  "types": [
-  "jasmine",
-  "node",
-  "core-js"
-   ]
+  "exclude": ["../node_modules"],
+  "types": ["jasmine", "node", "core-js"]
 }
