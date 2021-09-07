@@ -82,7 +82,7 @@
 <!-- ==================================================================== -->
 <!ELEMENT event4sol:eventSet (event4sol:event*)>
 <!ATTLIST event4sol:eventSet
-  xmlns:event4sol             CDATA #FIXED "http://contractshark.github.io/event4sol//event4sol/"
+  xmlns:event4sol             CDATA #FIXED "http://contractshark.github.io/event4sol/event4sol/"
   version                (0.1|0.2|0.3) "0.3" 
   includesLocationInfo   (true|false) "true"
 >
