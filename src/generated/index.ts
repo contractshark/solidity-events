@@ -1,9 +1,3 @@
-/***********
-generated template classes for ./src/event4solidity.xsd 11/4/2020, 2:13:48 AM
-***********/
-
-import * as event4sol from "";
-
 export class Event4solidity {
   public eventSet: EventSet;
   public response: Response;
@@ -101,3 +95,5 @@ enum stateType {
   OK = "OK",
   Error = "Error",
 }
+
+exports default event4sol
